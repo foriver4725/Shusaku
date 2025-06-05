@@ -1,0 +1,2 @@
+# Shusaku
+Go AI
