@@ -1,7 +1,7 @@
 # Shusaku
-<img height="256" alt="9x9" src="https://github.com/user-attachments/assets/1f793841-f9d6-4ae6-8065-c63c4e75663d" />
-<img height="256" alt="13x13" src="https://github.com/user-attachments/assets/0f7b6b41-dee3-4a39-8eef-4242d1916c8c" />
-<img height="256" alt="eval" src="https://github.com/user-attachments/assets/aed55cf4-9bec-4d2d-a7f4-c418d9a4fb4e" />
+<img height="320" alt="9x9" src="https://github.com/user-attachments/assets/1f793841-f9d6-4ae6-8065-c63c4e75663d" />
+<img height="320" alt="13x13" src="https://github.com/user-attachments/assets/0f7b6b41-dee3-4a39-8eef-4242d1916c8c" />
+<img height="320" alt="eval" src="https://github.com/user-attachments/assets/aed55cf4-9bec-4d2d-a7f4-c418d9a4fb4e" />
 
 ## Overview
 - This is a `Go AI` using the **Monte Carlo tree search** algorithm.
